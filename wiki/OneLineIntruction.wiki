@@ -1,0 +1,16 @@
+#labels Featured
+= Introduction =
+
+Here is the one line introduction of the modules. For more details of them, use the doc_library
+
+= Details =
+
+ * comov.pro: calculate comoving volume in LCDM universe
+ * hpercentile.pro: calculate a given percentile for an array
+ * limi.pro: calculate the i-band mag corresponding to 0.4L* at a given redshift
+ * mag_volmt.pro: calculate the magnitudes that ensure constant comoving # density
+ * make_negative_ra.pro: make the ra in the range (-180,180]
+ * make_positive_ra.pro: make the ra in the range [0,360)
+ * outlier_rem.pro: remove the outliers from an one dim array
+ * plotkde_fft.pro: make Kernel Density Plot(smoothed histogram) for a given array 
+ * sdssradec.pro: print out the link to sdss images for a set of given ra, dec. 
