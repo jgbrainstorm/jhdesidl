@@ -1,8 +1,8 @@
-;+
 ;given an array, remove the outlier and return a clean array
+
 ;Jiangang Hao @ FNAL
 ;9/10/2009
-;-
+
 pro outlier_rem,inArray,okidx,badidx,harsh=harsh
     y=inArray
     qt1=hquantile(y,1)
