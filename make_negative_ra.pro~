@@ -1,0 +1,9 @@
+;This code make the ra in the range [-180,180]
+
+function make_negative_ra,gal
+
+        x=where(gal.ra gt 180.)
+        if x[0] ne -1 then gal[x].ra = gal[x].ra - 360.
+        return,gal
+
+end
