@@ -1,4 +1,4 @@
-;This pro return the quantile of an array
+;This pro return the quartile of an array
 ;J G Hao @ U of Michigan, 10/3/2006
 
 
