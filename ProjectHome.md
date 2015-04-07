@@ -1,0 +1,1 @@
+The mock catalog for DES plays an important role for use to understand various cluster finding and comparison codes. I put here some idl codes I used to check the mock catalog. Please refer to the wiki tab for more details about the codes.
